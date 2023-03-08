@@ -1,0 +1,52 @@
+.download-container.css-1oqqzyl-MuiContainer-root
+{
+    display: flex;
+    padding: 75px 0px;
+    justify-content: space-between;
+}
+.box1
+{
+    width: 500px;
+    border-radius: 0px 50% 50% 0%;
+    background-color: rgb(234, 230, 225);;
+}
+.box2
+{
+    width: 500px;
+    border-radius: 50% 0% 0% 50%;
+    background-color: rgb(234, 230, 225);
+}
+.download-title
+{
+    font-size: 44px;
+    font-weight: 500;
+    margin-bottom: 14px;
+    color:black;
+    display: flex;
+    justify-content: center;
+}
+.download-desc
+{
+    font-size: 14px;
+    font-weight: 400;
+    color:#6d6969;
+    line-height: 23px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.download-buttons
+{
+    padding: 15px;
+    border-radius: 30px;
+    font-weight: 700;
+}
+.download-buttons
+{
+    display: flex;
+    gap:20px;
+}
+.data 
+{
+    padding:10px 50px;
+}

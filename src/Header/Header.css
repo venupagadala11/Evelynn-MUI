@@ -1,0 +1,33 @@
+.header
+{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    /* width:100%; */
+}
+.header-container.css-19r6kue-MuiContainer-root
+{
+    background-color: white;
+    color:'black';
+    padding:0px 75px !important
+}
+.header.MuiPaper-root
+{
+    background-color: white;
+    color:gray;
+}
+#header-button1
+{
+    border-radius: 25px 0px 0px 25px;
+    padding: 5px 20px;
+}
+#header-button2
+{
+    border-radius: 0px 25px 25px 0px;
+    margin-left: 5px;
+}
+#header-button1.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover, #header-button2.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover
+{
+    background-color: #3f51b5;
+    color:white;
+}

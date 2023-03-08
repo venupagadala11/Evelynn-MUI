@@ -1,0 +1,9 @@
+.customer-container
+{
+    padding:75px 0px;
+}
+.customer-cards
+{
+    display: flex;
+    gap:10px;
+}
